@@ -1,4 +1,4 @@
-![This is a alt text.](/image/sample.png "This is a sample image.")
+![Désolé si ça ne s'affiche pas.](/image/sample.png "This is a sample image.")
 
 # Nom
 VILLETTE
@@ -19,9 +19,9 @@ pvillette@normandiewebschool.fr
 * Dessin type manga
 
 ## J'aime
- _ex_
+ _Les concombres (les légumes, je précise)_
 ## J'aime pas
- _ex_
+ _Les légumes cuits_
 ## Signe astro
 Poisson
 ## Pointure
