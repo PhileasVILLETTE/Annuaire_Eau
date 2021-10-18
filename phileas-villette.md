@@ -13,7 +13,7 @@ Philéas
 ### Ville
 Bois-Guillaume
 ### Mail
-pvillette@normandiewebschool.fr
+pvillette.pro@laposte.net
 ## Centres d'intérets
 * Jeux vidéos rétros
 * Dessin type manga
