@@ -1,4 +1,4 @@
-![Désolé si ça ne s'affiche pas.](/image/sample.png "This is a sample image.")
+![Désolé si ça ne s'affiche pas.](https://raw.githubusercontent.com/PhileasVILLETTE/CV/main/phileas_villette.JPG "This is a sample image.")
 
 # Nom
 VILLETTE
